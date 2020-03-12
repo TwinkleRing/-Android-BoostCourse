@@ -7,4 +7,9 @@
   이와 함께 좋아요, 한 줄 평을 통해 사용자의 반응을 볼 수 있도록 합니다.
   
   
-  ![1](https://user-images.githubusercontent.com/43642411/76503109-8bae3080-6488-11ea-919d-3ae21e793f40.JPG)
+![1](https://user-images.githubusercontent.com/43642411/76503233-d5971680-6488-11ea-8958-8a484a1db6a8.PNG)
+
+
+
+
+![2](https://user-images.githubusercontent.com/43642411/76503242-daf46100-6488-11ea-996d-8a6884516ee6.PNG)
