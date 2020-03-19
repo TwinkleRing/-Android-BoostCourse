@@ -22,3 +22,6 @@
 - 영화 상세화면에서 좋아요/싫어요를 터치하면 숫자가 바뀌도록 하고, 또 한줄평 리스트를 추가합니다.
 
 ![한줄평](https://user-images.githubusercontent.com/43642411/77070266-444a1600-6a2d-11ea-9e20-091998bfbdf4.PNG)
+
+![좋아요](https://user-images.githubusercontent.com/43642411/77070498-ac98f780-6a2d-11ea-830a-4a8a3c5c2a90.PNG)
+
